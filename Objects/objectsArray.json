@@ -1,0 +1,24 @@
+[{
+  name: 'Hassan',
+  Age: 22,
+  Location: 'Lahore',
+  University: 'Comsats',
+  Semester: 7
+},
+{
+  name: 'Ali',
+  Age: 18,
+  Location: 'Okara',
+  University: 'PUCIT',
+  Semester: 3,
+  Skills: 'Good Programmer'
+},
+{
+  name: 'Hassan Abdullah',
+  Age: 20,
+  Location: 'Lahore',
+  University: 'PUCIT',
+  Semester: 6,
+  CGPA: 3.5
+}                  
+]
